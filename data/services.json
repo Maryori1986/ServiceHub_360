@@ -1,0 +1,8 @@
+[
+  {"id":"soporte","titulo":"Soporte tecnológico","categoria":"Tecnología","descripcion":"Orientación ante incidencias de aplicaciones, equipos y herramientas digitales.","icono":"monitor","tiempo":"1 a 2 días hábiles"},
+  {"id":"documental","titulo":"Gestión documental","categoria":"Administración","descripcion":"Apoyo para organizar, actualizar y estandarizar documentos y procedimientos.","icono":"file","tiempo":"2 a 3 días hábiles"},
+  {"id":"datos","titulo":"Análisis de datos","categoria":"Analítica","descripcion":"Elaboración de indicadores y reportes para respaldar decisiones de gestión.","icono":"chart","tiempo":"3 a 5 días hábiles"},
+  {"id":"solicitudes","titulo":"Atención de solicitudes","categoria":"Atención","descripcion":"Orientación y seguimiento inicial de requerimientos de diferentes equipos.","icono":"headset","tiempo":"1 a 3 días hábiles"},
+  {"id":"mejora","titulo":"Mejora de procesos","categoria":"Operaciones","descripcion":"Identificación de oportunidades de optimización y propuestas de mejora continua.","icono":"settings","tiempo":"3 a 5 días hábiles"},
+  {"id":"capacitacion","titulo":"Capacitación digital","categoria":"Formación","descripcion":"Recursos y asesoría para fortalecer el uso de herramientas de trabajo.","icono":"book","tiempo":"Según programación"}
+]
